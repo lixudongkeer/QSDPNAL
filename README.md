@@ -67,12 +67,12 @@ Let us take one line of the output as an example. In the following line
 
 \* : the restarting strategy is executed
 
-1.24-05 and 3.49e-06 : the primal and dual infeasibility (corresponding to only equality constraints)
+$1.24-05$ and $3.49e-06$ : the primal and dual infeasibility (corresponding to only equality constraints)
 
--1.46e-05 : relative duality gap
+$-1.46e-05$ : relative duality gap
 
--5.3375e+03 and -5.3373e+03: the primal and dual objective function values
+$-5.3375e+03$ and $-5.3373e+03$: the primal and dual objective function values
 
-52.3 : running time
+$52.3$ : running time
 
-2.86e-01 : penalty parameter $\sigma$
+$2.86e-01$ : penalty parameter $\sigma$
