@@ -14,7 +14,7 @@ In the Matlab command window, type:
 ```
 or
 ```Matlab
->> Installmex(1) (to recompile all Mex files) 
+>> Installmex(1) %%(to recompile all Mex files) 
 ```
 This step only needs to be done once.
 Note: the package provided some
