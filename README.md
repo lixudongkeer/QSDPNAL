@@ -2,7 +2,7 @@
 A MATLAB software for convex quadratic semidefinite programming  with inequality, equality and bound constraints
 
 This project is the implementation of the algorithm introduced in the paper QSDPNAL: A two-phase augmented Lagrangian method for convex quadratic semidefinite programming by Xudong Li, Defeng Sun and Kim-Chuan Toh.
-This paper has been accepted to publication in Mathematical Programming Computation. 
+This paper has been accepted by Mathematical Programming Computation. 
 
 Welcome to QSDPNAL! 
 
