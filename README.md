@@ -52,7 +52,7 @@ runSNL: for the sensor network localization problem
 
 runSNLI: for the sensor network localization problem with inequality constraints 
 
-## Detailed output
+## Detailed outputs
 
 In our codes, we will print some information of the algorithm, for example, the iteration number, 
 the primal and dual infeasibility (corresponding to only equality constraints), the relative duality gap,
