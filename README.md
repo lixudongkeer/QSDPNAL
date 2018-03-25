@@ -66,4 +66,4 @@ Let us take one line of the output as an example. In the following line
 
 52.3 : running time
 
-2.86e-01 : penalty parameter <img src="http://chart.googleapis.com/chart?cht=tx&chl=\sigma" style="border:none;">
+2.86e-01 : penalty parameter $\sigma$
