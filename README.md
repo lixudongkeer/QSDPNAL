@@ -10,7 +10,7 @@ Welcome to QSDPNAL!
 The software requires a few Mex files for execution. 
 You can install QSDPNAL as follows:
 Firstly, unpack the software.
-Run Matlab in the directory QSDPNAL
+Run Matlab in the directory QSDPNAL.
 In the Matlab command window, try
 ```Matlab
 >> startup 
