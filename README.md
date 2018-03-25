@@ -6,29 +6,17 @@ This paper has been accepted by Mathematical Programming Computation.
 
 Welcome to QSDPNAL! 
 
-## Compile Mex files
+## Install QSDPNAL
 The software requires a few Mex files for execution. 
-You can generate (only need to be done once) these Mex files as follows:
+You can install QSDPNAL as follows:
 Firstly, unpack the software.
 Run Matlab in the directory QSDPNAL
-In the Matlab command window, type: 
-```Matlab
->> Installmex
-```
-or
-```Matlab
->> Installmex(1) %%(to recompile all Mex files) 
-```
-This step only needs to be done once.
-Note: the package provided some
-precompiled mexfiles using recent versions of MATLAB.
-If your version is old, you would need to recompile the 
-mexfiles.
-After that type: 
+In the Matlab command window, try
 ```Matlab
 >> startup 
+>> qsdpdemo
 ```
-By now, QSDPNAL is ready for you to use.
+In the above, startup.m sets up the paths for QSDPNAL in MATLAB and qsdpdemo is a demo file illustrating how to solve a QSDP problem using {\sc Qsdpnal}. By now, QSDPNAL is ready for you to use.
 
 ## Structures
 
