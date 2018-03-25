@@ -16,7 +16,7 @@ In the Matlab command window, try
 >> startup 
 >> qsdpdemo
 ```
-In the above, startup.m sets up the paths for QSDPNAL in MATLAB and qsdpdemo is a demo file illustrating how to solve a QSDP problem using {\sc Qsdpnal}. By now, QSDPNAL is ready for you to use.
+In the above, startup.m sets up the paths for QSDPNAL in MATLAB and qsdpdemo is a demo file illustrating how to solve a QSDP problem using Qsdpnal. By now, QSDPNAL is ready for you to use.
 
 ## Structures
 
